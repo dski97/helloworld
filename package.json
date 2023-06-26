@@ -1,0 +1,26 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "hello world app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dski97/helloworld.git"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "Dominic Cwalinski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dski97/helloworld/issues"
+  },
+  "homepage": "https://github.com/dski97/helloworld#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
